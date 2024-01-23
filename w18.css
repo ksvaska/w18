@@ -1,0 +1,27 @@
+.task_list{
+    display: flex;
+    flex-direction: column;
+    margin: 50px;
+}
+
+.btn_add{
+    background-color: burlywood;
+    border: none;
+    width: 100px;
+    height: 30px;
+}
+.btn_clear{
+    background-color: cadetblue;
+    border: none;
+    width: 150px;
+    height: 50px;
+}
+
+#task{
+    width: 150px;
+    height: 30px
+}
+body{
+    text-align: center;
+    margin: 150px;
+}
